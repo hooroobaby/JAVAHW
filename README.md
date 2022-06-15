@@ -1,1 +1,1 @@
-# JAVAHW
+### HW2 - Painter
